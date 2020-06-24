@@ -1,6 +1,6 @@
 {
   "name": "red-bot-officine-innesto",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Custom plugin for Officine Innesto",
   "main": "index.js",
   "author": {

@@ -22,9 +22,7 @@ const getName = (path) => {
 const DeviceChannel = ({ channel, path, value, device, digits = 1 }) => {
 
   // TODO take device from context
-
-  console.log('value', value)
-  console.log('channel', channel)
+  console.log('path', path, 'value', value, 'channel', channel, 'digits', digits)
 
   const channelName = getName(path);
 
